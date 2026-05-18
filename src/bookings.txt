@@ -1,0 +1,3 @@
+Booking ID: B1 | Customer Name: Sanadaru | Event Name: AAA | Vendor Name: SSS | Booking Date: 2.17
+Booking ID: B2 | Customer Name: SB | Event Name: Wedding | Vendor Name: StudeioX | Booking Date: 15
+Booking ID: B3 | Customer Name: sabaragamuwa | Event Name: We3ding | Vendor Name: Studieo X | Booking Date: 12
