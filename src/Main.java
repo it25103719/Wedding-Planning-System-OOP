@@ -1,3 +1,4 @@
+import ui.RegisterUI;
 import ui.UserUI;
 import ui.BookingForm;
 import ui.ViewBookingsUI;
@@ -10,6 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        new RegisterUI();
         new UserUI();
         JFrame frame = new JFrame("Booking Management System");
 
