@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/wedding.iml" filepath="$PROJECT_DIR$/wedding.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/Wedding-Planning-and-Vendor-Booking-System.iml" filepath="$PROJECT_DIR$/Wedding-Planning-and-Vendor-Booking-System.iml" />
->>>>>>> 79b99d056a32ab23280eaa099978c38802891912
+
     </modules>
   </component>
 </project>
