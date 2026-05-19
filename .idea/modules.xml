@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wedding Manegement System.iml" filepath="$PROJECT_DIR$/wedding Manegement System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wedding-Planning-and-Vendor-Booking-System.iml" filepath="$PROJECT_DIR$/Wedding-Planning-and-Vendor-Booking-System.iml" />
+
     </modules>
   </component>
 </project>
